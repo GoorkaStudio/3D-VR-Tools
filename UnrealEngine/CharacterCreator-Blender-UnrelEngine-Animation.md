@@ -47,6 +47,7 @@ Corect weight paint
 
 ![image](https://user-images.githubusercontent.com/54003204/139738706-27b33a77-02a5-4b7c-8289-3c26c853ac80.png)
 
+![image](https://user-images.githubusercontent.com/54003204/139749995-a1068886-3695-4a01-81ce-7e50e067fa6b.png)
 
 
 
