@@ -31,4 +31,22 @@ I suggest create collection for new model - it will be easy using rigify when yo
 
 5. Add Rigify metarig and in edit mode pose pone in corect position
 
+![image](https://user-images.githubusercontent.com/54003204/139707593-ec4a6054-3135-49a7-84fb-55250c88f910.png)
+
+![image](https://user-images.githubusercontent.com/54003204/139707777-541be6de-42ba-4ea6-a6e3-674f9ad7e599.png)
+
+Parent rig with object (Ctrl+P)
+
+![image](https://user-images.githubusercontent.com/54003204/139707998-48d4a20d-ef38-4d61-99d6-0c8d0a5ca58d.png)
+
+Corect weight paint 
+
+![image](https://user-images.githubusercontent.com/54003204/139708795-2c0cf430-c804-4bf3-b08d-5091d6649348.png)
+
+6. Multiple rigify rig - adding another rigify rig
+
+![image](https://user-images.githubusercontent.com/54003204/139738706-27b33a77-02a5-4b7c-8289-3c26c853ac80.png)
+
+
+
 
