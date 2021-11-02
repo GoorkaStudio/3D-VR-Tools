@@ -13,9 +13,9 @@
 
 I suggest a file name convention modelName_pose_exportFromTo.fbx
 example:
-kobieta_apose_fromCCtoUe (CC - Character Creator, Ue - Unreal Engine ). When You edit and export model from blender you can use kobieta_tpose_formBtoUe ...
+kobieta_apose_fromCCtoUe (CC - Character Creator, Ue - Unreal Engine ). When you edit and export model from Blender you can use kobieta_tpose_formBtoUe ...
 
-Character Creator allow also export to blender, but don't use it if you want to export model to UE.
+Character Creator allow also export to Blender, but don't use it if you want to export model to UE.
 
 3. Import to blender
 
@@ -29,7 +29,7 @@ I suggest create collection for new model - it will be easy using rigify when yo
 
 ![image](https://user-images.githubusercontent.com/54003204/139702795-90cd37bb-35fc-4fe3-a5de-0568cfe61c28.png)
 
-5. Add Rigify metarig and in edit mode pose pone in corect position
+5. Add Rigify metarig and in edit mode pose pone in correct position
 
 ![image](https://user-images.githubusercontent.com/54003204/139707593-ec4a6054-3135-49a7-84fb-55250c88f910.png)
 
@@ -39,7 +39,7 @@ Parent rig with object (Ctrl+P)
 
 ![image](https://user-images.githubusercontent.com/54003204/139707998-48d4a20d-ef38-4d61-99d6-0c8d0a5ca58d.png)
 
-Corect weight paint 
+Correct weight paint 
 
 ![image](https://user-images.githubusercontent.com/54003204/139708795-2c0cf430-c804-4bf3-b08d-5091d6649348.png)
 
