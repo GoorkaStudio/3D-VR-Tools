@@ -1,4 +1,4 @@
-# Character Creator to Blender Rigify to UnrelEngine - Animation workflow
+# Character Creator to Blender Rigify to Unreal Engine - Animation workflow
 
 1. Create model
 
