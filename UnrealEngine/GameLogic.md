@@ -1,26 +1,38 @@
 # Unreal Engine 4 - Game logic
+GoorkaStudio Game Logic ver. 1.0
 
 ## Types
 
+### Linear 
+
 StepChanger
   NextStep - names of next step
-	NextStepDelay - delay [ms] after new step will be set
-	SoundPosityve - 
-	SoundPositiveDelay - delay [ms] after positive sound played 
-	SoundNegative
-	SoundNegativeDelay - delay [ms] after positive sound played
+  NextStepDelay - delay [ms] after new step will be set
+  SoundPosityve - 
+  SoundPositiveDelay - delay [ms] after positive sound played 
+  SoundNegative
+  SoundNegativeDelay - delay [ms] after positive sound played
   LevelName - level that be openet on positive
+
+ActiveSteps 
+  Delay - how long [ms] after step change set activity
+  Steps - steps separatet by ',' and allowed span separated by '-' examle: step2,step3,step4-step10
+  	
+### Branch
+
+StepBranch
+  Decision1:StepChanger
+  Decision2:StepChanger
+  Decision3:StepChanger
+  Decision4:StepChanger
+
   
-NextStep - 
+NextStepDescription - 
   Decision1StepName - default decision next step
   Decision2StepName
   Decision3StepName
   Decision4StepName
   
-ActiveSteps 
-  Delay - how long [ms] after step change set activity
-  Steps - steps separatet by ',' and allowed span separated by '-' examle: step2,step3,step4-step10
-  	
 
 ## Controlls
 
@@ -32,14 +44,20 @@ ActiveSteps
     StepName
   
   VisibleOnStep - component 
-    Visiblity
+    Visiblity:ActiveSteps
     
   SnapPad - control where you snap 3d object (with SnapComponent)
     SnapId
-    Visiblity
-    StepChanger
+    Visiblity:ActiveSteps
+    StepChanger: StepChanger
     
   SnapComponent
     SnapId
     
+  Timer - change step after [ms]
+    Delay
+    NextStep:NextStep
+    ActiveSteps:ActiveSteps
+    
+  
   PickableComponent - component allowed pick 3d object
