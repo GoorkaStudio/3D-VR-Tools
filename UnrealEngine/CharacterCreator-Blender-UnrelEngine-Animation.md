@@ -29,7 +29,7 @@ I suggest create collection for new model - it will be easy using rigify when yo
 
 ![image](https://user-images.githubusercontent.com/54003204/139702795-90cd37bb-35fc-4fe3-a5de-0568cfe61c28.png)
 
-5. Add Rigify metarig and in edit mode pose pone in corect position
+5. Add Rigify metarig and in edit mode pose pone in correct position
 
 ![image](https://user-images.githubusercontent.com/54003204/139707593-ec4a6054-3135-49a7-84fb-55250c88f910.png)
 
