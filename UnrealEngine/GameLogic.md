@@ -12,11 +12,11 @@ StepChanger
   SoundPositiveDelay - delay [ms] after positive sound played 
   SoundNegative
   SoundNegativeDelay - delay [ms] after positive sound played
-  LevelName - level that be openet on positive
+  LevelName - level that be opened on positive
 
 ActiveSteps 
   Delay - how long [ms] after step change set activity
-  Steps - steps separatet by ',' and allowed span separated by '-' examle: step2,step3,step4-step10
+  Steps - steps separated by ',' and allowed span separated by '-' example: step2,step3,step4-step10
   	
 ### Branch
 
@@ -48,7 +48,7 @@ NextStepDescription -
     
   SnapPad - control where you snap 3d object (with SnapComponent)
     SnapId
-    Visiblity:ActiveSteps
+    Visibility:ActiveSteps
     StepChanger: StepChanger
     
   SnapComponent
