@@ -15,7 +15,7 @@ Can be used for example in Realistic windows with fake interiors
 
 ![image](https://user-images.githubusercontent.com/54003204/147299136-977f9de9-0eab-4e70-a5dd-dd8e8ec1c635.png)
 
-2. Drag Scene Capture Cuba to your scene
+2. Drag Scene Capture Cube to your scene
 
 ![image](https://user-images.githubusercontent.com/54003204/147299177-8feecac4-b075-4592-b78a-0e8d19029bb3.png)
 
@@ -35,7 +35,7 @@ Open asset 'renderCube' and set resolution
 ![image](https://user-images.githubusercontent.com/54003204/147299844-3de4fb79-0421-4778-860d-7a5dde416075.png)
 
 
-3. Set the "Scene Capture Cube" in right position in scene. The cube texture/map will be rendered automaticly.
+3. Set the "Scene Capture Cube" in right position in scene. The cube texture/map will be rendered automatically.
 
 4. Export asset 
 
