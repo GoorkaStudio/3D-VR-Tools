@@ -1,5 +1,4 @@
-# Unreal Engine 4 - Game logic
-GoorkaStudio Game Logic ver. 1.0
+# Goorka Studio Unreal Engine Game Logic version 1
 
 ## Types
 
