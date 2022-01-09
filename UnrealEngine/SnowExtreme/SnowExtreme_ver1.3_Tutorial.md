@@ -3,6 +3,8 @@
 Game SnowExtreme Unreal Engine project with blueprints, models and maps. 
 Playable version is avaliable on project site https://tajemnice-trzebini.pl
 
+Full Ue4 project : https://drive.google.com/file/d/1_kQueERMJ6UVMJiQoHbVhSmmDDmVxjhR/view?usp=sharing
+
 NOTE:
 The game uses a third part assets which aren't included in this downloaded project due to legal restrictions. (source project use free assets and may look a litte diffrent)
 Below are full game dependencies which can by bought on markeplace for about $50
