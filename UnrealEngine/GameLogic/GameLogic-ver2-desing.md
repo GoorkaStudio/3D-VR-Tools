@@ -4,7 +4,7 @@
 
 ### Linear 
 
-StepChanger - class describe step changing
+StepChanger - class describe game step changing configuration (use in controlls like Checkpoint...)
  - NextStep - names of next game step
  - NextStepDelay - the delay [ms] after which the next step will be executed. (after triggered, delay [ms] and then change game step
  - SoundPosityve - 
