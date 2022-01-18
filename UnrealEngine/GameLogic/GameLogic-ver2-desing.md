@@ -5,8 +5,8 @@
 ### Linear 
 
 StepChanger - class describe step changing
- - NextStep - names of next step
- - NextStepDelay - delay [ms] after new step will be set
+ - NextStep - names of next game step
+ - NextStepDelay - the delay [ms] after which the next step will be executed. (after triggered, delay [ms] and then change game step
  - SoundPosityve - 
  - SoundPositiveDelay - delay [ms] after positive sound played 
  - SoundNegative
@@ -14,8 +14,8 @@ StepChanger - class describe step changing
  - LevelName - level that be openet on positive
 
 ActiveSteps 
- - Delay - how long [ms] after step change set activity
- - Steps - steps separatet by ',' and allowed span separated by '-' examle: step2,step3,step4-step10
+ - ActivityDelay - activity delay [ms], after a new step change. (After a new step change, delay [ms] and execute activity)
+ - Steps - game steps separatet by ',' and allowed span separated by '-' examle: step2,step3,step4-step10, that activite control/component
   	  
 
 ## Controlls
