@@ -3,6 +3,9 @@
 Game SnowExtreme Unreal Engine project with blueprints, models and maps. 
 Playable version is avaliable on project site https://tajemnice-trzebini.pl
 
+See Snow Extreme 2 : https://wspieram.to/snowextreme2
+
+
 Full Ue4 project : https://drive.google.com/file/d/1_kQueERMJ6UVMJiQoHbVhSmmDDmVxjhR/view?usp=sharing
 
 Youtube tutorial: https://www.youtube.com/watch?v=fMe-7sPdBIc&ab_channel=GoorkaStudio
