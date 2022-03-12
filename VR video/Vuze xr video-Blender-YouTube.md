@@ -1,6 +1,7 @@
 # Vuze xr 3D VR180 video with Blender objects to YouTube
 
-Mixing video from camer 3D V180 (Vuze XR) with Blender generated scene. 
+
+Mixing video from camera 3D V180 (Vuze XR) with Blender generated scene. 
 
 1. Get video from camera.
 
