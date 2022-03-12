@@ -1,6 +1,7 @@
 # Vuze xr 3D VR180 video with Blender objects to YouTube
 
-Mixing video from camera 3D V180 (Vuze XR) with blender generated scene. 
+
+Mixing video from camera 3D V180 (Vuze XR) with Blender generated scene. 
 
 1. Get video from camera.
 
@@ -9,7 +10,7 @@ Mixing video from camera 3D V180 (Vuze XR) with blender generated scene.
 (Expand 180 to 360 is needed to work with VR180 Ceator)
 
 
-2.1 Render scene in blender
+2.1 Render scene in Blender
 
 ![Scene](https://user-images.githubusercontent.com/54003204/139658123-3425c459-43fe-4ef0-94c0-62063dbe5aa5.png)
 
@@ -29,7 +30,7 @@ Mixing video from camera 3D V180 (Vuze XR) with blender generated scene.
 
 ![image](https://user-images.githubusercontent.com/54003204/139659028-26b294f0-c087-45a2-b58c-b4bda8060654.png)
 
-3. Editing video in blender - mixing images/video rendered in blender with orginal captured video (You can use another software but it's should suport 5.7K)
+3. Editing video in Blender - mixing images/video rendered in blender with orginal captured video (You can use another software but it's should suport 5.7K)
 
 ![image](https://user-images.githubusercontent.com/54003204/139659488-160b356c-f319-4b20-a2a7-f1603e71c476.png)
 
@@ -37,7 +38,7 @@ Mixing video from camera 3D V180 (Vuze XR) with blender generated scene.
 
 ![image](https://user-images.githubusercontent.com/54003204/139659732-12af85b4-18aa-42d9-b3c6-1b76cea01cb6.png)
 
-5. Enjoy Your video on Oculus Quest 2 or other VR gogle on YouTube
+5. Enjoy Your video on Oculus Quest 2 or other VR goggle on YouTube
 
 [![Fitness VR180 3D](http://img.youtube.com/vi/Af_hsoHbsPI/0.jpg)](http://www.youtube.com/watch?v=Af_hsoHbsPI)
 
