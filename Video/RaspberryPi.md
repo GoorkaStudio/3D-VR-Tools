@@ -1,33 +1,33 @@
 # USB camera
 Raspberry Pi / DietPi / NanoPi
 
-# Video
-## instalation
+## Video
+### installation
 ```
 sudo apt update
 sudo apt install ffmpeg
 ```
 
-## Recording
+### Recording
 Best performance (low dropped frames) - 1h of recording create ~3GB file.
 ```
 ffmpeg -f v4l2 -framerate 10 -video_size 800x600 -i /dev/video0 -c:v libx264 -preset ultrafast -t 1:00:00 output.mp4
 ```
 
 
-# Take a picture/jpg
-## Installation
+## Take a picture/jpg
+### Installation
 ```
 sudo apt update
 sudo apt install fswebcam
 ```
 
-Previe picture in ssh consolr
+Preview of picture in ssh consolr
 ```
 sudo apt-get install catimg
 ```
 
-## Take a picture
+### Take a picture
 ```
 fswebcam -d /dev/video0 -r 1280x720 --no-banner image.jpg
 ```
