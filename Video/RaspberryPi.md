@@ -10,16 +10,39 @@ sudo apt install ffmpeg
 
 ## Recording
 Best performance (low dropped frames) - 1h of recording create ~3GB file.
-`ffmpeg -f v4l2 -framerate 10 -video_size 800x600 -i /dev/video0 -c:v libx264 -preset ultrafast -t 1:00:00 output.mp4`
+```
+ffmpeg -f v4l2 -framerate 10 -video_size 800x600 -i /dev/video0 -c:v libx264 -preset ultrafast -t 1:00:00 output.mp4
+```
 
 
-## Takie picture/jpg
+# Take a picture/jpg
+## Installation
+```
+sudo apt update
+sudo apt install fswebcam
+```
 
+Previe picture in ssh consolr
+```
+sudo apt-get install catimg
+```
 
+## Take a picture
+```
+fswebcam -d /dev/video0 -r 1280x720 --no-banner image.jpg
+```
+
+```
+catimg image.jpg
+```
 
 ## Disc /Memory SD Card speed test
 Writting:
-`dd if=/dev/zero of=testfile bs=4M count=256 conv=fdatasync`
+```
+dd if=/dev/zero of=testfile bs=4M count=256 conv=fdatasync
+```
 
 Reading
-`dd if=testfile of=/dev/null bs=4M`
+```
+dd if=testfile of=/dev/null bs=4M
+```
